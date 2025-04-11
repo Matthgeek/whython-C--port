@@ -1,7 +1,6 @@
-#include <float.h>
-#include <stdbool.h>
 #include <stdio.h>
 #include <stdint.h>
+#include "useless_library.h"
 
 void print_text(char *text)
 {
